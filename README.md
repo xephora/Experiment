@@ -1,4 +1,4 @@
-## My random exploits / payloads
+## My random exploits
 
 ### ntlm relay attack via XXE utilizing COM object MSXML2.DOMDocument (Thanks to @[frostb1te](https://twitter.com/frostb1ten) for helping me learn about ntlm relay)
 
