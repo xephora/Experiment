@@ -1,6 +1,6 @@
 ## My random exploits / payloads
 
-### ntlm relay attack via XXE utilizing COM object MSXML2.DOMDocument (Thanks to @[Frostb1te](https://twitter.com/frostb1ten) for helping me learn about ntlm relay)
+### ntlm relay attack via XXE utilizing COM object MSXML2.DOMDocument (Thanks to @[frostb1te](https://twitter.com/frostb1ten) for helping me learn about ntlm relay)
 
 - Works on earlier version of Windows 10
 ```
